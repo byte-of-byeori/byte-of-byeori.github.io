@@ -16,3 +16,11 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+
+docs:
+  - title: "Tables"
+    children:
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
