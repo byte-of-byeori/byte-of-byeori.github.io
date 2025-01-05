@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Byeori Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just a cat person from South Korea"
+  avatar           : /images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Just a cat person interested in tech"
   location         : "Germany"
   email            :
   links:
