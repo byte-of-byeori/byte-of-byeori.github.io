@@ -67,7 +67,7 @@ There are two leads of the LED; one is positive and another is negative. It is s
 Resistors resist the flow of electricity. The higher the value of the resistor, the more it resists and the less electrical current will flow through it. We are going to use this to control how much electricity flows through the LED and therefore, how brightly it blinks.<br>
 
 Resistors have different colored stripes on them, which tell you the value of the resistor. The resistor color code has four or five colored stripes.<br>
-![byte-of-byeori]({{site.url}}\images\2025-01-05-Arduino-LED\resistor-color-code.JPG)<br>
+![byte-of-byeori]({{site.url}}\images\2025-01-05-Arduino-LED\resistor-color-code.jpg)<br>
 If you find this too complicated, you can use a digital multimeter instead to measure directly the resistance of the resistor. Unlike LEDs, resistors do not have a positive and negative lead. So they can be connected either way around.
 
 
